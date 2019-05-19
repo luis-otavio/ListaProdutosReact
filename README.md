@@ -51,6 +51,12 @@ npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/react-fontawesome
 ```
 
+## Material-UI | Installation
+
+```
+npm install @material-ui/core
+```
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
